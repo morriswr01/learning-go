@@ -1,0 +1,1 @@
+Following this tutorial: https://go.dev/doc/tutorial/getting-started#install
