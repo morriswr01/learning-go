@@ -7,4 +7,4 @@ Commands:
 -   set GOMODCACHE=C:\Go\bin\pkg\mod
 -   set GOPATH=C:\Go\bin
 
-Got to - https://gobyexample.com/pointers
+Got to - https://gobyexample.com/structs
